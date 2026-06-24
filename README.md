@@ -12,7 +12,7 @@ Python, Pandas, NumPy, Matplotlib, Seaborn
 配送データと顧客データを結合（JOIN）し、ルートごとの収益性をマトリクスと散布図で可視化する前処理・分析ロジック・運賃改定までの一連のシナリオを作成。
 
 
-①  プロジェクト名： 【Kaggleコンペ】中古車の価格予測(6/24～現在作成中)
+②  プロジェクト名： 【Kaggleコンペ】中古車の価格予測(6/24～現在作成中)
 
 ファイル名： Usedcar_price_prediction.ipynb
 
